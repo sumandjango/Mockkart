@@ -8,9 +8,13 @@ const Footer = () => {
         <div className="mb-6">
           <p className="text-2xl font-bold">Mockkart</p>
         </div>
+        <div>
+          <p>The ultimate Guide to Ace Interviews</p>
+        </div>
         <div className="mb-4 flex space-x-4">
+          <p>GET IN TOUCH</p>
         <a
-            href="mailto:sumanprasadofficially@gmail.com"
+            href="mailto:mockkart@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition duration-300"
@@ -18,7 +22,7 @@ const Footer = () => {
             <AiOutlineMail size={24} />
           </a>
         </div>
-        <p className="text-gray-400 text-sm mb-2">
+        <p className="text-gray-400 text-sm mb-2"> Copyright
           &copy; {new Date().getFullYear()} Mockkart
         </p>
         <p className="text-gray-400 text-sm">All rights reserved</p>

@@ -5,6 +5,7 @@ import Link from "next/link";
 import Contactimg from "../public/assets/contact.jpg";
 
 const Register = () => {
+  const googleFormLink = "https://forms.gle/CcTeH8sP6adWqqZU9"
   return (
     <div
       id="register"
@@ -32,9 +33,12 @@ const Register = () => {
               next data science interview by reserving your slot today with
               Mockkart.
             </p>
+            <a href={googleFormLink} target="_blank" rel="noopener noreferrer">
             <button className="button-86 w-full p-4 text-gray-100 mt-4">
               Get Started For Free
             </button>
+            </a>
+            
           </div>
           <div style={{ flex: 1, display: "flex", justifyContent: "center" }}>
             <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl">

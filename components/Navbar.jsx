@@ -5,7 +5,7 @@ import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 // import { useRouter } from 'next/router';
-import NavLogo from '../public/assets/logo.png'
+import NavLogo from '../public/assets/logo-no-background.png'
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -49,7 +49,7 @@ const Navbar = () => {
               src={NavLogo}
               alt='/'
               width='125'
-              height='100'
+              height='70'
               className='cursor-pointer'
             />
           </a>

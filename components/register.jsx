@@ -5,7 +5,7 @@ import Link from "next/link";
 import Contactimg from "../public/assets/contact.jpg";
 
 const Register = () => {
-  const googleFormLink = "https://forms.gle/CcTeH8sP6adWqqZU9"
+  const googleFormLink = "https://forms.gle/yVwwyW9Ks9vhxkuK7"
   return (
     <div
       id="register"

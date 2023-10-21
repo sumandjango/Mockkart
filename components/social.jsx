@@ -178,7 +178,7 @@ const Social = () => {
         >
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
             <div className="m-auto text-center">
-              <a href="https://www.youtube.com/@sumanitian/" target="_blank">
+              <a href="https://www.youtube.com/@sumanitian/" target="_blank" rel="noopener noreferrer">
                 <Image src={Youtube} width={100} height={100} />
               </a>
               <p
@@ -202,7 +202,7 @@ const Social = () => {
             </div>
 
             <div className="m-auto text-center">
-              <a href="https://www.linkedin.com/in/sumanitian/" target="_blank">
+              <a href="https://www.linkedin.com/in/sumanitian/" target="_blank" rel="noopener noreferrer">
                 <Image src={Linkdein} width={100} height={100} />
               </a>
               <p
@@ -226,7 +226,7 @@ const Social = () => {
             </div>
 
             <div className="m-auto text-center">
-              <a href="https://www.instagram.com/sumanitian/" target="_blank">
+              <a href="https://www.instagram.com/sumanitian/" target="_blank" rel="noopener noreferrer">
                 <Image src={Instagram} width={100} height={100} />
               </a>
               <p
@@ -250,7 +250,7 @@ const Social = () => {
             </div>
 
             <div className="m-auto text-center">
-              <a href="mailto:mockkart@gmail.com" target="_blank">
+              <a href="mailto:mockkart@gmail.com" target="_blank" rel="noopener noreferrer">
                 <Image src={Gmail} width={100} height={100} />
               </a>
               <p

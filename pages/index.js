@@ -6,7 +6,7 @@ import Skills from '../components/Skills'
 import Register from '../components/register'
 import Footer from '../components/footer'
 import Works from '../components/works'
-
+import Social from '../components/social'
 
 
 export default function Home() {
@@ -22,6 +22,7 @@ export default function Home() {
       <Works />
       <Skills />
       <Register />
+      <Social />
       <Footer />
     </div>
   )

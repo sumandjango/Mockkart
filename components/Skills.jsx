@@ -35,7 +35,7 @@ const Skills = () => {
               </div>
             </div>
             <div>
-              <p style={{ fontSize: "10px", marginLeft: "20px",color: 'hsl(215, 51%, 70%)' }}>
+              <p style={{ fontSize: "11px", marginLeft: "20px",color: '#FFA500' }}>
               Koshal Singh holds the position of Senior Analyst at Tiger Analytics, where he brings his expertise to the field. Prior to his role at Tiger Analytics, he served as an Associate Data Scientist at Alunoz Technologies Pvt Ltd. 
               With a robust industry tenure of over two years, Koshal has developed a depth of experience and has actively engaged in mentoring and conducting interviews as part of his professional responsibilities.
               </p>
@@ -67,7 +67,7 @@ const Skills = () => {
               </div>
             </div>
             <div>
-              <p style={{ fontSize: "10px", marginLeft: "20px" , color: 'hsl(215, 51%, 70%)'}}>
+              <p style={{ fontSize: "11px", marginLeft: "20px" , color: '#FFA500'}}>
               Priyanka Sharma currently serves as a Data Scientist at Solytics Partners, leveraging her valuable expertise in the field. 
               With an industry experience exceeding 1.5 years, Priyanka has demonstrated a commitment to both interviewing prospective candidates and providing mentorship to others in her professional capacity.
               </p>
@@ -99,7 +99,7 @@ const Skills = () => {
               </div>
             </div>
             <div>
-              <p style={{ fontSize: "10px", marginLeft: "20px",color: 'hsl(215, 51%, 70%)' }}>
+              <p style={{ fontSize: "11px", marginLeft: "20px",color: '#FFA500' }}>
               Abhishek holds the position of Senior Associate Data Scientist at Affine Analytics, where he contributes his extensive industry experience, exceeding 2 years. 
               Prior to his current role, he served as a Machine Learning Engineer at Focus Edumatics Pvt Ltd. In addition to his core responsibilities, Abhishek actively allocates his time to engage in the interviewing and mentorship of individuals within the professional sphere.
               </p>

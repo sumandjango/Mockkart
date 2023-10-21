@@ -12,7 +12,7 @@ const Main = () => {
             HELLO DATA CHAMP<span className="text-[#5651e5]"> WE</span>
           </h1>
           <h1 className="text-gray-500 text-2xl md:text-3xl lg:text-4xl py-2">
-            Elevatel Your Data Science Interview Game With Mockkart!
+            Elevate Your Data Science Interview Game With Mockkart!
           </h1>
         </div>
       </div>
